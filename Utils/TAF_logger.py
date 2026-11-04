@@ -24,6 +24,7 @@ class Logger:
     def __init__(self, text, level):
         """
         Initialize the class
+
         Parameters
         ------------------------------------------------
         text: str

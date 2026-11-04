@@ -34,6 +34,7 @@ def main(debug: bool = False) -> None:
     """
     if debug:
         print("DEBUG mode activated!")
+        # Add other debug specific code..
 
     print("Hello from script.py")
 
