@@ -9,6 +9,7 @@ print(salesman["rank"], "\n", salesman)
 salesman["rank"] = "Regional manager"
 print(salesman["rank"], "\n", salesman)
 
+# The item method
 key_value_pairs_items = salesman.items()
 print(key_value_pairs_items)  # No manipulation as a list
 print(list(key_value_pairs_items))  # list() is the constructor of a list
